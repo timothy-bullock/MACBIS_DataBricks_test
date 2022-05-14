@@ -1,6 +1,6 @@
 -- Databricks notebook source
 -- MAGIC %python
--- MAGIC str = 'Hello World'
+-- MAGIC str = 'Hello World  '
 
 -- COMMAND ----------
 
